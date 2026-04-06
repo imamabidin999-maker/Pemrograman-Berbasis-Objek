@@ -1,0 +1,17 @@
+[
+    {
+        "id": "123",
+        "nama": "Daging Babi",
+        "harga": 1000
+    },
+    {
+        "id": "456",
+        "nama": "Daging Ayam",
+        "harga": 2000
+    },
+    {
+        "id": "789",
+        "nama": "Daging Sapi",
+        "harga": 3000
+    }
+]
