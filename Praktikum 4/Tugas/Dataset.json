@@ -1,0 +1,31 @@
+[
+    {
+        "nama": "Laptop Gaming", 
+        "harga": 15000000, 
+        "kategori": "Elektronik", 
+         "garansi": 24, 
+         "stok": 5
+    }, 
+    {
+        "nama": "Kemeja Flanel", 
+        "harga": 200000, 
+        "kategori": "Pakaian", 
+        "ukuran": "M", 
+        "stok": 10
+    },
+    {
+        "nama": "Smart TV", 
+        "harga": 7000000, 
+        "kategori": "Elektronik", 
+        "garansi": 12, 
+        "stok": 3
+    },
+    {
+        "nama": "Celana Jeans", 
+        "harga": 300000, 
+        "kategori": "Pakaian", 
+        "ukuran": "L", 
+        "stok": 7
+    }
+]
+
