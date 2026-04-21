@@ -1,0 +1,22 @@
+[
+    {
+        "tipe": "elektronik",
+        "id": "E01",
+        "nama": "Laptop Pro",
+        "harga": 12000000,
+        "garansi": 12
+    },
+    {
+        "tipe": "konsumsi",
+        "id": "K02",
+        "nama": "Roti Coklat",
+        "harga": 15000,
+        "tgl_exp": "2024-05-10"
+    },
+    {
+        "tipe": "umum",
+        "id": "U03",
+        "nama": "Kabel Data",
+        "harga": 25000
+    }
+]

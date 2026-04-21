@@ -1,0 +1,29 @@
+[
+    {
+        "tipe": "elektronik",
+        "id": "E01",
+        "nama": "Monitor 4500K",
+        "harga": 3500000,
+        "garansi": 24
+    },
+    {
+        "tipe": "konsumsi",
+        "id": "K02",
+        "nama": "Susu MBG",
+        "harga": 15000,
+        "tgl_exp": "2023-01-01"
+    },
+    {
+        "tipe": "konsumsi",
+        "id": "K03",
+        "nama": "Roti AOKA",
+        "harga": 2500,
+        "tgl_exp": "2026-12-31"
+    },
+    {
+        "tipe": "umum",
+        "id": "U04",
+        "nama": "Mousepad",
+        "harga": 50000
+    }
+]
